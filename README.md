@@ -7,5 +7,5 @@
 •	Association between products was measured by support, lift and confidence using Apriori Algorithm.
 
 ## Note
-Click [here](https://github.com/muskaan99/Customer-Segmentation-and-Market-Basket-Analysis/blob/main/Clustering.ipynb)to look into the Clustering.ipnyb file for detailed analysis.
+Click [here](https://github.com/muskaan99/Customer-Segmentation-and-Market-Basket-Analysis/blob/main/Clustering.ipynb) to look into the Clustering.ipnyb file for detailed analysis.
 For pdf version, click [here](https://github.com/muskaan99/Customer-Segmentation-and-Market-Basket-Analysis/blob/main/Clustering.pdf).
